@@ -1,0 +1,7 @@
+cobra = (input(" quem é o filho " ))
+print (cobra[0:1])
+print (cobra[0:2])
+print (cobra[0:3])
+print (cobra[0:4])
+print (cobra[0:5])
+print (cobra[0:6])

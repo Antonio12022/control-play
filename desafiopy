@@ -1,0 +1,18 @@
+primeiro = (input("primeiro nome "))
+segundo = (input("segundo nome "))
+ultimo = (input
+('ultimo nome '))
+print ("Primeiro nome: ", primeiro)
+print ("Segundo nome : ",segundo)
+print ("Ultimo nome :",ultimo)
+
+quem = (input("quem é ele "))
+print (quem[0])
+print (quem[1])
+print (quem[2])
+print (quem[3])
+print (quem[4])
+print (quem[5])
+print (quem[6])
+
+oi = (input("aaah"))
